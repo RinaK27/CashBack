@@ -32,4 +32,5 @@ public class CashBackHackServiceTest {
         int expected = 0;
         assertEquals(actual, expected);
     }
+
 }
